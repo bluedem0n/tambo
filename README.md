@@ -7,7 +7,7 @@ Proyecto Web E-commerce hecho en HTML5 CSS3 JAVASCRIPT , Utilizando el framework
 El proyecto trata de simular una tienda Online , para esto tomaremos como ejemplo la Tienda Tambo que no cuenta con una tienda online para la venta de sus productos.
 
 ## Requerimientos :
-** 1. Catálogo **
+**1. Catálogo**
 
 ![](http://i68.tinypic.com/30xeb77.png)
 
@@ -18,7 +18,7 @@ Al dar click en Ver Catálogo mostrar los productos en stock.
 ![](http://i68.tinypic.com/35hp7rb.png)
 
 
-** 2. Ficha del Producto **
+**2. Ficha del Producto**
 
 Al estar sobre un producto aparece un card con un boton ver 
 
@@ -26,7 +26,7 @@ Al estar sobre un producto aparece un card con un boton ver
 
 ![](http://i64.tinypic.com/2q0o9wh.png)
 
-** 3. Ficha con Especificaciones **
+**3. Ficha con Especificaciones**
 
 Al dar click en el boton ver se muestra una ficha para especificar nuestra orden.
 
@@ -34,30 +34,30 @@ Al dar click en el boton ver se muestra una ficha para especificar nuestra orden
     * Indicar la cantidad
     * Botones de agregar y catalogo  
 
-** Prototipo **
+**Prototipo**
 ![](http://i64.tinypic.com/2f0850m.png)
 
-** 4. Agregar Producto **
+**4. Agregar Producto**
 
 Al dar click en agregar debería aparecer un mensaje como este :
 
 ![](http://i66.tinypic.com/15zobkg.png)
 
-** 5. Carrito de Compras **
+**5. Carrito de Compras**
 
 ![](http://i65.tinypic.com/xo35a0.png)
 
-** 6. Calcular cantidad por precio ** 
+**6. Calcular cantidad por precio** 
 
 ![](http://i64.tinypic.com/ibgxgo.png)
 
-** 7. Opiniones ** 
+**7. Opiniones** 
 
 Permitir dejar opiniones de los diferentes productos
 
 ![](http://i68.tinypic.com/2hhhue1.png)
 
-** 8. Ver carrito **
+**8. Ver carrito**
 
 Click en ver carrito
 
