@@ -13,7 +13,7 @@ El proyecto trata de simular una tienda Online , para esto tomaremos como ejempl
 
 Al dar click en Ver Catálogo mostrar los productos en stock.
 
-** Prototipo **
+**Prototipo**
 
 ![](http://i68.tinypic.com/35hp7rb.png)
 
@@ -22,7 +22,7 @@ Al dar click en Ver Catálogo mostrar los productos en stock.
 
 Al estar sobre un producto aparece un card con un boton ver 
 
-** Prototipo **
+**Prototipo**
 
 ![](http://i64.tinypic.com/2q0o9wh.png)
 
