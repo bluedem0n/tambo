@@ -6,28 +6,33 @@ body {
     background-color: #F5F2F0;
     font-family: 'Raleway', sans-serif;
 }
-.navcol{
-   background-color: #C11194;
+
+.navcol {
+    background-color: #C11194;
 }
-.sliderme{
+
+.sliderme {
     width: 80% !important;
     margin-top: 4%;
     margin-left: 11%;
 }
 
 .slider .indicators .indicator-item.active {
-   background-color:  #C11194 !important;
+    background-color: #C11194 !important;
 }
-.boton{
+
+.boton {
     margin-top: 1.5em;
     margin-left: 4em;
     background-color: #D65DB8 !important;
 }
-.titulo{
+
+.titulo {
     text-align: center;
     font-size: 20px;
     color: #7E005F;
 }
-.page-footer{
+
+.page-footer {
     background-color: dimgray !important;
 }
