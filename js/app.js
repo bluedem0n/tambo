@@ -10,9 +10,10 @@ function cargaPagina() {
 
 function ampliarCard() {
     ficha.classList.add("fichaGrande");
+   
 }
 function reducirCard(){
-   ficha.classList.remove("fichaGrande");
+    ficha.classList.remove("fichaGrande");
 }
 function crearCard(){
    
