@@ -25,3 +25,8 @@ body {
 .container{
 	margin-top: 20px !important;
 }
+
+.fichaGrande {
+   box-sizing: border-box;
+   width: 600px;
+}
